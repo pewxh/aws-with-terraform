@@ -38,7 +38,7 @@ terraform destroy --auto-approve
 
 - [Launching a web server using AWS EBS and Github](https://www.linkedin.com/pulse/automated-website-deployment-using-aws-terraform-github-piyush-mehta)
 - [Launching a web server using AWS EFS and Github](https://pewxh.medium.com/launching-web-server-using-aws-efs-terraform-and-github-77f1b561eefa)
-- [Setting up a VPC infrastructure](https://pewxh.medium.com/launching-web-server-using-aws-efs-terraform-and-github-77f1b561eefa)
+- [Setting up a VPC infrastructure](https://pewxh.medium.com/vpc-infrastructure-using-terraform-9f4e9da456ef)
 - [Setting up a VPC infrastructure along with NAT Gateway](https://pewxh.medium.com/vpc-infrastructure-using-terraform-along-with-nat-gateway-3da47459ecb)
 - [Deploying Wordpress App on Kubernetes and AWS](https://pewxh.medium.com/yet-another-wordpress-a57cee4bd9e4)
 - [Storing objects in a S3 bucket and using Cloudfront](https://www.linkedin.com/pulse/automated-website-deployment-using-aws-terraform-github-piyush-mehta)
