@@ -2,7 +2,7 @@
 
 ![image](https://i.ibb.co/QKWsBjT/awsterra.jpg)
 
-## Description
+## Descriptions
 
 This repo contains some handpicked problems of cloud provisioning that can be solved using IaC tool Terraform.
 
